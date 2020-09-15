@@ -15,17 +15,25 @@ a {
 ul {
     list-style: none;
 }
-.webstudio-logo {
+.web-logo {
     font-family: Raleway;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 1.19;
-    color: var(--accent-color)
+    letter-spacing: 0.03em;
+    color: var(--accent-color);
+}
+.web-logo .header-studio {
+    color: black;
+}
+.web-logo .footer-studio {
+    color: white;
 }
 .navigation-link {
     font-style: normal;
     font-weight: 500;
     line-height: 1.14;
+    letter-spacing: 0.02em;
     color: var(--primary-text-color);
 }
 .navigation-link:hover,
@@ -36,6 +44,7 @@ ul {
     font-style: normal;
     font-weight: 500;
     line-height: 1.14;
+    letter-spacing: 0.02em;
     color: var(--secondary-text-color);
 }
 .contact-link:hover,
@@ -45,57 +54,68 @@ ul {
 .title {
     font-style: normal;
     font-weight: 900;
-    line-height: 1.3;
+    line-height: 1.36;
     text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
     color: var(--title-text-color);
 }
 .main-button {
     font-style: normal;
-    font-weight: bold;
-    line-height: 1.8;
+    font-weight: 700;
+    line-height: 1.88;
+    letter-spacing: 0.06em;
     color: var(--title-text-color);
 }
 .work-item {
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: var(--primary-text-color);
 }
 .discription-text {
     font-style: normal;
-    font-weight: normal;
-    line-height: 1.7;
+    font-weight: 400;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }
 .work-title {
     font-style: normal;
-    font-weight: bold;
-    line-height: 1.16;
+    font-weight: 700;
+    line-height: 1.17;
     text-align: center;
+    letter-spacing: 0.03em;
     color: var(--primary-text-color);
 }
 .name {
     font-style: normal;
     font-weight: 500;
-    line-height: 1.18;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
     color: var(--primary-text-color);
 }
 .profession {
     font-style: normal;
-    font-weight: normal;
-    line-height: 1.18;
+    font-weight: 400;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }
 .address {
     font-style: normal;
-    font-weight: normal;
-    line-height: 1.7;
+    font-weight: 400;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
     color: var(--title-text-color);
 }
 .contacts {
     font-style: normal;
-    font-weight: normal;
-    line-height: 1.7;
+    font-weight: 400;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
 
@@ -104,7 +124,8 @@ ul {
 .portfolio-button {
     font-style: normal;
     font-weight: 500;
-    line-height: 1.6;
+    line-height: 1.63;
+    letter-spacing: 0.03em;
     background-color: var(--background-color);
     color: var(--primary-text-color)
 }
@@ -115,13 +136,15 @@ ul {
 }
 .projects-list h2 {
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 2.0;
+    letter-spacing: 0.06em;
     color: var(--primary-text-color)
 }
 .projects-list p {
     font-style: normal;
-    font-weight: normal;
-    line-height: 1.8;
+    font-weight: 400;
+    line-height: 1.88;
+    letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }

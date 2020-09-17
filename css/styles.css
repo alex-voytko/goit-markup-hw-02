@@ -112,6 +112,9 @@ ul {
     letter-spacing: 0.03em;
     color: var(--title-text-color);
 }
+.adress-block {
+    font-style: normal;
+}
 .contacts {
     font-weight: 400;
     font-size: 14px;

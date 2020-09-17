@@ -20,7 +20,7 @@ ul {
     font-family: Raleway;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.19;
+    line-height: 1.192;
     letter-spacing: 0.03em;
     color: var(--accent-color);
 }
@@ -33,7 +33,7 @@ ul {
 .navigation-link {
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.14;
+    line-height: 1.143;
     letter-spacing: 0.02em;
     color: var(--primary-text-color);
 }
@@ -44,7 +44,7 @@ ul {
 .contact-link {
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.14;
+    line-height: 1.143;
     letter-spacing: 0.02em;
     color: var(--secondary-text-color);
 }
@@ -55,7 +55,7 @@ ul {
 .title {
     font-weight: 900;
     font-size: 44px;
-    line-height: 1.36;
+    line-height: 1.364;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -64,14 +64,14 @@ ul {
 .main-button {
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.88;
+    line-height: 1.875;
     letter-spacing: 0.06em;
     color: var(--title-text-color);
 }
 .work-item {
     font-weight: 700;
     font-size: 14px;
-    line-height: 1.14;
+    line-height: 1.143;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--primary-text-color);
@@ -79,14 +79,14 @@ ul {
 .discription-text {
     font-weight: 400;
     font-size: 14px;
-    line-height: 1.71;
+    line-height: 1.714;
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }
 .work-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.17;
+    line-height: 1.167;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
@@ -94,21 +94,21 @@ ul {
 .name {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.19;
+    line-height: 1.188;
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
 }
 .profession {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.19;
+    line-height: 1.188;
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }
 .address {
     font-weight: 400;
     font-size: 14px;
-    line-height: 1.71;
+    line-height: 1.714;
     letter-spacing: 0.03em;
     color: var(--title-text-color);
 }
@@ -118,7 +118,7 @@ ul {
 .contacts {
     font-weight: 400;
     font-size: 14px;
-    line-height: 1.71;
+    line-height: 1.714;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
@@ -128,7 +128,7 @@ ul {
 .portfolio-button {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.63;
+    line-height: 1.625;
     letter-spacing: 0.03em;
     background-color: var(--background-color);
     color: var(--primary-text-color)
@@ -148,7 +148,7 @@ ul {
 .projects-list p {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.88;
+    line-height: 1.875;
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }

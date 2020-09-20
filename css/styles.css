@@ -41,6 +41,9 @@ ul {
 .navigation-link:focus {
     color: var(--accent-color);
 }
+.navigation-link:active {
+    color: var(--accent-color);
+}
 .contact-link {
     font-weight: 500;
     font-size: 14px;
@@ -131,7 +134,7 @@ ul {
     line-height: 1.625;
     letter-spacing: 0.03em;
     background-color: var(--background-color);
-    color: var(--primary-text-color)
+    color: var(--primary-text-color);
 }
 .portfolio-button:hover,
 .portfolio-button:focus {
